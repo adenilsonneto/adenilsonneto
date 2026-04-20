@@ -13,8 +13,13 @@ Tenho foco em **Engenharia de dados** e **Inteligência Articifial**
   <a href="https://github.com/adenilsonneto">
     <img src="https://img.shields.io/badge/GitHub-ADENILSONNETO-181717?style=for-the-badge&logo=github" />
   </a>
+  
   <a href="https://instagram.com/net0silva">
     <img src="https://img.shields.io/badge/Instagram-@NET0SILVA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+   <a href="https://www.linkedin.com/in/adenilson-gomes-da-silva-neto-200907321/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adenilson%20Neto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
