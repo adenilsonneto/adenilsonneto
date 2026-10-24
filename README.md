@@ -3,8 +3,8 @@
 🚀 **Graduando em Engenharia da Computação**  
 🇧🇷 Brazil
 
-Sou estudante do 6º período na Universidade de Pernambuco.
-Tenho foco em **Engenharia de dados** e **Inteligência Articifial**
+Sou estudante do 7º período na Universidade de Pernambuco.
+Tenho foco em **Engenharia de dados** e **Inteligência Artificial**
 ---
 
 ## 🌐 Onde me encontrar
@@ -13,11 +13,6 @@ Tenho foco em **Engenharia de dados** e **Inteligência Articifial**
   <a href="https://github.com/adenilsonneto">
     <img src="https://img.shields.io/badge/GitHub-ADENILSONNETO-181717?style=for-the-badge&logo=github" />
   </a>
-  
-  <a href="https://instagram.com/net0silva">
-    <img src="https://img.shields.io/badge/Instagram-@NET0SILVA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
    <a href="https://www.linkedin.com/in/adenilson-gomes-da-silva-neto-200907321/">
     <img src="https://img.shields.io/badge/LinkedIn-Adenilson%20Neto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -34,8 +29,14 @@ Tenho foco em **Engenharia de dados** e **Inteligência Articifial**
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=000)
+
+### Dados / Analytics
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=000)
@@ -49,5 +50,3 @@ Tenho foco em **Engenharia de dados** e **Inteligência Articifial**
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=adenilsonneto&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenilsonneto&layout=compact&theme=tokyonight" />
 </p>
-
----
